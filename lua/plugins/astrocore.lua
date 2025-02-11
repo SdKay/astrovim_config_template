@@ -79,6 +79,7 @@ return {
 
         ["<Leader>go"] = { function() require("gitsigns").toggle_current_line_blame() end, desc = "Toggle current line git blame" },
 
+--        ["m"] = { desc = "Marks" },
         -- tables with just a `desc` key will be registered with which-key if it's installed
         -- this is useful for naming menus
         -- ["<Leader>b"] = { desc = "Buffers" },

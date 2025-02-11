@@ -15,6 +15,8 @@ return {
   { import = "astrocommunity.editing-support.nvim-treesitter-context" },
   { import = "astrocommunity.utility.telescope-live-grep-args-nvim" },
   { import = "astrocommunity.recipes.auto-session-restore" },
+  { import = "astrocommunity.quickfix.nvim-bqf" },
+  { import = "astrocommunity.motion.marks-nvim" },
 
   -- { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
   -- { import = "astrocommunity.indent.indent-blankline-nvim" },
