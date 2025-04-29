@@ -17,6 +17,9 @@ return {
   { import = "astrocommunity.recipes.auto-session-restore" },
   { import = "astrocommunity.quickfix.nvim-bqf" },
   { import = "astrocommunity.motion.marks-nvim" },
+  { import = "astrocommunity.bars-and-lines.bufferline-nvim" },
+  { import = "astrocommunity.motion.leap-nvim" },
+  { import = "astrocommunity.motion.flit-nvim" },
 
   -- { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
   -- { import = "astrocommunity.indent.indent-blankline-nvim" },
